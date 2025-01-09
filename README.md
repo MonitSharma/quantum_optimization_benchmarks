@@ -1,14 +1,13 @@
-### Quantum Optimization Benchmarks
+# Quantum Optimization Benchmarks
 
 This repository, **Quantum Optimization Benchmarks**, provides a collection of benchmark datasets and Jupyter notebooks for solving combinatorial optimization problems. The repository includes benchmark instances for problems like Market Share, Maximum Independent Set, Multi-Dimensional Knapsack, and Quadratic Assignment Problem. It also provides Python code for formulating these problems and analyzing results.
 
 ---
 
-### Repository Structure
+## Repository Structure
 
 ```plaintext
 QUANTUM_OPTIMIZATION_BENCHMARKS/
-- .venv/: Virtual environment (optional)
 - Market_Share/: Market share optimization problem
   - market_share_classical_results.ipynb: Classical results for the Market Share problem
   - market_share.ipynb: Code for solving the Market Share problem
@@ -30,15 +29,15 @@ QUANTUM_OPTIMIZATION_BENCHMARKS/
 
 ---
 
-### Getting Started
+## Getting Started
 
-#### Clone the Repository
+### Clone the Repository
 ```
-git clone https://github.com/your-username/quantum-optimization-benchmarks.git  
+git clone https://github.com/MonitSharma/quantum_optimization_benchmarks.git  
 cd quantum-optimization-benchmarks  
 ```
 
-#### Set Up Virtual Environment
+### Set Up Virtual Environment
 It is recommended to use a virtual environment to manage dependencies: 
 
 ```
@@ -47,7 +46,7 @@ source .venv/bin/activate  (Linux/macOS)
 .venv\Scripts\activate     (Windows)  
 ```
 
-#### Install Dependencies
+### Install Dependencies
 Install the required Python libraries:  
 
 ```
@@ -56,26 +55,26 @@ pip install -r requirements.txt
 
 ---
 
-### Problem-Specific Details
+## Problem-Specific Details
 
-#### 1. Market Share Problem
+### 1. Market Share Problem
 - Directory: Market_Share/
 - Description: A benchmark dataset and code to solve the Market Share problem using combinatorial optimization techniques.
 - Notebook: market_share.ipynb contains the implementation.
 - Benchmark Data: Details of classical results and test instances are stored in market_share_classical_results.ipynb.
 
-#### 2. Maximum Independent Set (MIS)
+### 2. Maximum Independent Set (MIS)
 - Directory: Maximum_Independent_Set/
 - Description: Instances for the Maximum Independent Set problem, which involves finding the largest subset of vertices such that no two are adjacent.
 - Notebook: mis.ipynb provides the implementation.
 
-#### 3. Multi-Dimensional Knapsack Problem (MKP)
+### 3. Multi-Dimensional Knapsack Problem (MKP)
 - Directory: Multi_Dimension_Knapsack/
 - Description: Benchmark datasets and code for solving the Multi-Dimensional Knapsack Problem.
 - Notebook: mdkp.ipynb contains the MKP implementation.
 - Benchmark Data: Instances for testing are stored in MKP_Instances/.
 
-#### 4. Quadratic Assignment Problem (QAP)
+### 4. Quadratic Assignment Problem (QAP)
 - Directory: Quadratic_Assignment_Problem/
 - Description: A benchmark dataset and implementation for the Quadratic Assignment Problem.
 - Notebook: qap.ipynb contains the code for solving QAP.
@@ -83,7 +82,7 @@ pip install -r requirements.txt
 
 ---
 
-### How to Use
+## How to Use
 
 1. Navigate to the problem-specific directory.
 2. Open the Jupyter notebook (.ipynb) to explore the code.
@@ -91,18 +90,18 @@ pip install -r requirements.txt
 
 ---
 
-### Contribution
+## Contribution
 
 We welcome contributions! If you have additional benchmark datasets, new formulations, or improvements, feel free to open an issue or submit a pull request.
 
 ---
 
-### License
+## License
 
 This repository is licensed under the MIT License.
 
 ---
 
-### Contact
+## Contact
 
 For questions or suggestions, please reach out to monitsharma@smu.edu.sg or open an issue in this repository.
