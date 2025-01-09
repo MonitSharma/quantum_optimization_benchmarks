@@ -1,6 +1,6 @@
 # Quantum Optimization Benchmarks
 
-This repository, **Quantum Optimization Benchmarks**, provides a collection of benchmark datasets and Jupyter notebooks for solving combinatorial optimization problems. The repository includes benchmark instances for problems like Market Share, Maximum Independent Set, Multi-Dimensional Knapsack, and Quadratic Assignment Problem. It also provides Python code for formulating these problems and analyzing results.
+This repository, **Quantum Optimization Benchmarks**, provides a collection of benchmark datasets and Jupyter notebooks for solving combinatorial optimization problems. The repository includes benchmark instances for problems like **Market Share**, **Maximum Independent Set**, **Multi-Dimensional Knapsack**, and **Quadratic Assignment Problem**. It also provides Python code for formulating these problems and analyzing results.
 
 ---
 
