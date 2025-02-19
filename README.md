@@ -31,11 +31,14 @@ QUANTUM_OPTIMIZATION_BENCHMARKS/
 
 ## Getting Started
 
+
 ### Clone the Repository
 ```
 git clone https://github.com/MonitSharma/quantum_optimization_benchmarks.git  
 cd quantum-optimization-benchmarks  
 ```
+
+
 
 ### Set Up Virtual Environment
 It is recommended to use a virtual environment to manage dependencies: 
