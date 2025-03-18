@@ -2,6 +2,8 @@
 
 This repository, **Quantum Optimization Benchmarks**, provides a collection of benchmark datasets and Jupyter notebooks for solving combinatorial optimization problems. The repository includes benchmark instances for problems like **Market Share**, **Maximum Independent Set**, **Multi-Dimensional Knapsack**, and **Quadratic Assignment Problem**. It also provides Python code for formulating these problems and analyzing results.
 
+See [Quantum Optimization Algorithms](https://github.com/MonitSharma/quantum_opt_algos) for implementation details
+
 ---
 
 ## Repository Structure
@@ -90,6 +92,22 @@ pip install -r requirements.txt
 1. Navigate to the problem-specific directory.
 2. Open the Jupyter notebook (.ipynb) to explore the code.
 3. Use the provided instances in the respective directories for testing.
+
+Cite the paper, if you use this work
+
+[A Comparative Study of Quantum Optimization Techniques for Solving Combinatorial Optimization Benchmark Problems](https://arxiv.org/abs/2503.12121)
+
+```bash
+@misc{sharma2025comparativestudyquantumoptimization,
+      title={A Comparative Study of Quantum Optimization Techniques for Solving Combinatorial Optimization Benchmark Problems}, 
+      author={Monit Sharma and Hoong Chuin Lau},
+      year={2025},
+      eprint={2503.12121},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2503.12121}, 
+}
+```
 
 ---
 
