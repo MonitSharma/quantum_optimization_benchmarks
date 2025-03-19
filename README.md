@@ -1,3 +1,11 @@
+# This project has been migrated to the [SMU‑Quantum](https://github.com/SMU-Quantum) organization. You can now find the latest code [here](https://github.com/SMU-Quantum/quantum-optimization-benchmarks) This repository will be removed on March 23, 2025. Please update any bookmarks or references to point to the new location.
+
+---
+
+---
+
+
+
 # Quantum Optimization Benchmarks
 
 This repository, **Quantum Optimization Benchmarks**, provides a collection of benchmark datasets and Jupyter notebooks for solving combinatorial optimization problems. The repository includes benchmark instances for problems like **Market Share**, **Maximum Independent Set**, **Multi-Dimensional Knapsack**, and **Quadratic Assignment Problem**. It also provides Python code for formulating these problems and analyzing results.
